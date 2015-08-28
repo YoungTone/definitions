@@ -4,7 +4,7 @@ TCP/IP: IP: Protocol that deal with Ip addresses, how do I find where I need to 
 
 XHR: Representation of the active x object. XML HTTP request object. It gives us the functionality of collecting server data and returning it to client without refreshing the page.
 
-API
+API: Application programing interface. A technology that grants users access to its methods.
 
 HTTP: Transfer of data between clients and servers. Always must be done in text. Request response cycle.
 
