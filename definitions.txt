@@ -1,0 +1,23 @@
+Definitions:
+
+TCP/IP: IP: Protocol that deal with Ip addresses, how do I find where I need to go. TCP: deals with transfer of data packets.
+
+XHR: Representation of the active x object. XML HTTP request object. It gives us the functionality of collecting server data and returning it to client without refreshing the page.
+
+API
+
+HTTP: Transfer of data between clients and servers. Always must be done in text. Request response cycle.
+
+Protocol: Set of rules governing procedures, machine communications.
+
+JSON: Javascript Object Notation. Deficit text format these days.
+
+Request: Client requests data from server.
+
+Response: Server returns data to client.
+
+Client: Requests data.
+
+Server: Responds to requests by sending back html which the browser renders.
+
+AJAX: Allows us to make server requests without refreshing page. Term coined as XHR was gaining popularity. Based off of XHR. 
